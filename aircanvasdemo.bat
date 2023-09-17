@@ -1,0 +1,2 @@
+python AirCanvasDemo.py
+pause

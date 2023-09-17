@@ -1,0 +1,2 @@
+python canva.py
+pause
